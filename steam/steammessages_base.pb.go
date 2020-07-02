@@ -7,7 +7,7 @@
 package steam
 
 import (
-	descriptor "github.com/Gbps/go-steam-protobufs/google/protobuf/descriptor"
+	descriptor "github.com/Gbps/go-steam-protobufs/steam/descriptor"
 	proto "github.com/golang/protobuf/proto"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
